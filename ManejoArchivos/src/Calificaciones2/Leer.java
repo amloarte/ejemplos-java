@@ -33,27 +33,32 @@ public class Leer {
 
     // lee registro del archivo
     public void leer_informacion() {
-        double s = 0;
-        double t = 0;
+
         try // lee registros del archivo, usando el objeto Scanner
         {
+            double promedioMy = 0;
             while (entrada.hasNext()) {
                 String linea = entrada.nextLine();
-                //System.out.println(linea);
                 ArrayList<String> linea_partes = new ArrayList<String>(Arrays.asList(linea.split(";")));
 
+                double suma = 0;
+                double promedio = 0;
+
                 for (int i = 0; i < linea_partes.size(); i++) {
+
                     if (i >= 2) {
 
-                        s =  s+Integer.parseInt(linea_partes.get(i));
-                        t = s / 2;
-
+                        suma = suma + Integer.parseInt(linea_partes.get(i));
+                        promedio = suma / 2;
                     }
-
+                    if (promedio > promedioMy) {
+                        promedioMy = promedio;
+                    }
                 }
-                System.out.printf("%s \n\t Promedio: %.2f \n", linea_partes, s);
-            } // fin de while
 
+                System.out.printf("%s [ Promedio: %.2f ]\n", linea_partes, promedio);
+            } // fin de while
+            System.out.println("\nPromedio Mayor: " + promedioMy);
         } // fin de try
         catch (NoSuchElementException elementException) {
             System.err.println("El archivo no esta bien formado.");

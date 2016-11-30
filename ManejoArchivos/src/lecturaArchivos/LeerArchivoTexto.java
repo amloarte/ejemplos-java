@@ -32,25 +32,23 @@ public class LeerArchivoTexto {
 
     // lee registro del archivo
     public void leer_informacion() {
-        int t = 0;
-        
+
         try // lee registros del archivo, usando el objeto Scanner
         {
+            int total = 0;
             while (entrada.hasNext()) {
                 String linea = entrada.nextLine();
                 //System.out.println(linea);
                 ArrayList<String> linea_partes = new ArrayList<String>(Arrays.asList(linea.split(";")));
-                
+                int suma = 0;
 
                 for (int i = 0; i < linea_partes.size(); i++) {
-
-                    t = t + Integer.parseInt(linea_partes.get(i));
-                   
-                    
+                    suma = suma + Integer.parseInt(linea_partes.get(i));
                 }
-                System.out.print("\nSuma: " + t);
-                
+                total += suma;
+                System.out.printf("%s: %d\n", linea_partes, suma);
             } // fin de while
+            System.out.println("Suma Total: " + total);
         } // fin de try
         catch (NoSuchElementException elementException) {
             System.err.println("El archivo no esta bien formado.");

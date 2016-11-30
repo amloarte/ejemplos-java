@@ -13,6 +13,6 @@ public class PruebaLeerArchivoTexto {
         aplicacion.abrirArchivo();
         aplicacion.leer_informacion();
         aplicacion.cerrarArchivo();
-    } // fin de main
+    } // fin de mainz
 } // fin de la clase PruebaLeerArchivoTexto
 
