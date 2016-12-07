@@ -1,0 +1,14 @@
+							Comercial de Ventas y Reventas		
+
+Nombre: Ximena
+Ciudad: Loja
+-------------------------------
+Producto			Cantidad		Precio
+		Arroz  			2				5,00
+		Azucar  			5				7,50
+		Aceite  			6				7,80
+------------------------------
+
+					Subtotal: 20,30
+						Iva: 2,84
+					TOTAL: 23,14
