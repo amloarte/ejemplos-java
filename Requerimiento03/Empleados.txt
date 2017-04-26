@@ -1,0 +1,126 @@
+ESCENARIO 
+
+Maquila de Software
+Lider: 
+	Numero de Nomina: 1254-kk125 
+	Nombre: ANA MARIA 
+	Salario Base: 1254,00 
+	Lenguajes de Programacion: : C## 
+	Salario Por Cargo: 1504,80 
+
+Programadores: 
+
+Programador 1
+	Numero de Nomina: 1254-kk125 
+	Nombre: JOSE JOSE 
+	Salario Base: 4987,00 
+	Lenguajes de Programacion: : Ruby
+
+Programador 2
+	Numero de Nomina: 564dsas-54 
+	Nombre: JOSE MARIA  
+	Salario Base: 4985,00 
+	Lenguajes de Programacion: : C++ 
+
+ESCENARIO 
+
+Maquila de Software
+Lider: 
+	Numero de Nomina: 1254-kk125 
+	Nombre: ANA MARIA 
+	Salario Base: 1254,00 
+	Lenguajes de Programacion: : C## 
+	Salario Por Cargo: 1504,80 
+
+Programadores: 
+
+Programador 1
+	Numero de Nomina: 1254-kk125 
+	Nombre: JOSE JOSE 
+	Salario Base: 4987,00 
+	Lenguajes de Programacion: : Ruby
+
+Programador 2
+	Numero de Nomina: 564dsas-54 
+	Nombre: JOSE MARIA  
+	Salario Base: 4985,00 
+	Lenguajes de Programacion: : C++ 
+
+ESCENARIO 
+
+Maquila de Software
+Lider: 
+	Numero de Nomina: 1254-kk125 
+	Nombre: ANA MARIA 
+	Salario Base: 1254,00 
+	Lenguajes de Programacion: : C## 
+	Salario Por Cargo: 1504,80 
+
+Programadores: 
+
+Programador 1
+	Numero de Nomina: 1254-kk125 
+	Nombre: JOSE JOSE 
+	Salario Base: 4987,00 
+	Lenguajes de Programacion: : Ruby
+
+Programador 2
+	Numero de Nomina: 564dsas-54 
+	Nombre: JOSE MARIA  
+	Salario Base: 4985,00 
+	Lenguajes de Programacion: : C++ 
+
+ESCENARIO 
+
+Maquila de Software
+Lider: 
+	Numero de Nomina: 1254-kk125 
+	Nombre: ANA MARIA 
+	Salario Base: 1254,00 
+	Lenguajes de Programacion: : C## 
+	Salario Por Cargo: 1504,80 
+
+Programadores: 
+
+Programador 1
+	Numero de Nomina: 1254-kk125 
+	Nombre: JOSE JOSE 
+	Salario Base: 4987,00 
+	Lenguajes de Programacion: : Ruby
+
+Programador 2
+	Numero de Nomina: 564dsas-54 
+	Nombre: JOSE MARIA  
+	Salario Base: 4985,00 
+	Lenguajes de Programacion: : C++ 
+
+ESCENARIO 
+
+Maquila de Software
+Lider: 
+	Numero de Nomina: 1254-kk125 
+	Nombre: ANA MARIA 
+	Salario Base: 1254,00 
+	Lenguajes de Programacion: : C## 
+	Salario Por Cargo: 1504,80 
+
+Programadores: 
+
+Programador 1
+	Numero de Nomina: 1254-kk125 
+	Nombre: JOSE JOSE 
+	Salario Base: 4987,00 
+	Lenguajes de Programacion: : Ruby
+
+Programador 2
+	Numero de Nomina: 564dsas-54 
+	Nombre: JOSE MARIA  
+	Salario Base: 4985,00 
+	Lenguajes de Programacion: : C++ 
+
+
+ESCENARIO 
+
+Maquila de Software
+
+

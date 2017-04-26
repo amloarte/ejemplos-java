@@ -1,0 +1,11 @@
+Alumno
+
+	identificacion:Axel
+	Nombres:@utpl.edu.ec
+	Email:1245
+	IdAlumno: 123653
+Componentes:
+ComponenteEducativo:	
+Codigo:1254	
+Nombre:Axel	
+NumCreditos:15
